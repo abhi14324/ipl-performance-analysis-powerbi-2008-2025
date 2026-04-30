@@ -24,6 +24,7 @@ The project combines:
 ---
 
 ❓ Problem Statement
+
 The IPL generates massive amounts of cricket data across every season — covering 1,169 matches, hundreds of players, and 18 years of history. However, this data existed only as raw scattered CSV files with no way to extract meaningful patterns or actionable insights from it.
 There was no centralized system to answer critical questions such as:
 
