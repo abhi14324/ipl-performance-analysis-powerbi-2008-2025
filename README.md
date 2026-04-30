@@ -28,10 +28,10 @@ The project combines:
 The IPL generates massive amounts of cricket data across every season — covering 1,169 matches, hundreds of players, and 18 years of history. However, this data existed only as raw scattered CSV files with no way to extract meaningful patterns or actionable insights from it.
 There was no centralized system to answer critical questions such as:
 
-Which franchise has been the most dominant team across IPL history?
-How much does the toss decision actually influence the match outcome?
-Which stadiums produce the highest scoring games and favor chasing teams?
-Which players consistently deliver top batting and bowling performances season after season?
+- Which franchise has been the most dominant team across IPL history?
+- How much does the toss decision actually influence the match outcome?
+- Which stadiums produce the highest scoring games and favor chasing teams?
+- Which players consistently deliver top batting and bowling performances season after season?
 
 Without proper analytical tooling, these questions remained unanswered — making it impossible for analysts, fans, or team management to draw data-driven conclusions from IPL history.
 This project solves that problem by transforming raw IPL datasets into a structured, interactive, multi-page Power BI dashboard that delivers clear cricket intelligence across season, team, venue, and player dimensions.
